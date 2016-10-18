@@ -1,2 +1,1 @@
-# snippetRhIpsum
-# snippetRhIpsum
+# snippets RH Ipsum
